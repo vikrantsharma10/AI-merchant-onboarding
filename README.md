@@ -1,5 +1,6 @@
 Agentic AI Merchant Onboarding Pipeline
 An end-to-end agentic onboarding system that replaces manual merchant onboarding with an automated, multi-step pipeline; triggered by a CRM event and running through to go-live with a human approval checkpoint.
+
 What it does:
 
 Triggers automatically on a Closed Won deal in the CRM
